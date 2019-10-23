@@ -175,5 +175,5 @@ abitbol ALL=(ALL:ALL) NOPASSWD:ALL
 
 6. Créez un second playbook qui installe tmux et screen en utilisant une liste pour éviter de dupliquer inutilement les commandes 
 
-7. Modifiez ce playbook pour créer un utilisateur ; cet utilisateur devra faire partie des ”sudoers” sur le serveur, et le fichier de règles sudo pour cet utilisateur devra être copié depuis la machine de supervision (cf. tuto de Grafikart) 8. Continuez le tuto de Grafikart (à partir de 21’)
+7. Modifiez ce playbook pour créer un utilisateur ; cet utilisateur devra faire partie des ”sudoers” sur le serveur, et le fichier de règles sudo pour cet utilisateur devra être copié depuis la machine de supervision (cf. tuto de Grafikart) 8. Continuez le tuto de Grafikart (à partir de 21’) 
 
