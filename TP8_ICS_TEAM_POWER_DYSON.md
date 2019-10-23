@@ -8,7 +8,7 @@
 - Vidéo d’introduction à Ansible par Grafikart : https://www.youtube.com/watch?v=DwNapBHypE8
 - SSH : https://www.ssh.com/ssh/copy-id - Gestion des “sudo-ers” : cours 4
 
-## Questions:
+## Questions: 
 ### *Qu’est ce qu’un inventaire ?*
 
 Ansible fonctionne avec plusieurs systèmes de l’infrastructure en même temps. Pour ce faire, il sélectionne des parties des systèmes répertoriés dans l’inventaire d’Ansible, qui sont enregistrées par défaut à l’emplacement /etc/ansible/hosts.
